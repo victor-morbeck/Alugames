@@ -16,4 +16,14 @@ fun main(args: Array<String>) {
 
     println(json)
 
+    val meuJogo = Jogo(
+        "Thief: Deadly Shadows",
+        "https:\\/\\/shared.akamai.steamstatic.com\\/store_item_assets\\/steam\\/apps\\/6980\\/capsule_sm_120.jpg?t=1700763742")
+
+
+    println(meuJogo)
+
+
+
+
 }
